@@ -191,7 +191,7 @@
   },
   "bronze:Shield": {
     "NAME": "黏性护盾",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 NL bronze:插入 *黏液 。",
+    "DESCRIPTION": " 保留 。 NL 获得 !B! 点 格挡 。 NL bronze:插入 *黏液 。",
     "EXTENDED_DESCRIPTION": [
       "黏黏",
       "护盾"
