@@ -457,7 +457,7 @@
     "NAME": "腐化之心的蓝色祝福",
     "FLAVOR": "心脏很欣慰。",
     "DESCRIPTIONS": [
-      "首领战斗开始时，获得 #b10 层 #y临时生命 。"
+      "首领战斗开始时，回复 #b10 点生命 。"
     ]
   },
   "downfall:HeartBlessingGreen": {
