@@ -54,7 +54,7 @@
     "NAME": "袖中王牌",
     "FLAVOR": "我也出A。",
     "DESCRIPTIONS": [
-      "战斗开始时，获得1张 #y记号牌 。"
+      "战斗开始时，获得1张 #y记号牌+ 。"
     ]
   },
   "sneckomod:UnknownEgg": {
